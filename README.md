@@ -1,0 +1,2 @@
+# algorithms
+different JS Algorithms
